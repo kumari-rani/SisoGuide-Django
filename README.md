@@ -16,7 +16,7 @@ A Django-based web platform for Class 11-12 students to access Previous Year Que
 - **Backend**: Django, Python
 - **Database**: SQLite / PostgreSQL  
 - **Frontend**: HTML, CSS, Bootstrap, JavaScript
-- **Deployment**: Coming soon
+
 
 ## Vision
 To help students easily access organized study material and previous year papers in one place.
